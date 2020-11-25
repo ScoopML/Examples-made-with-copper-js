@@ -2,13 +2,13 @@
   "name": "code-your-own-react",
   "version": "1.0.0",
   "description": "",
-  "main": "react-mini.js",
+  "main": "todo-app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Harish S.G",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
